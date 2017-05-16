@@ -1,2 +1,3 @@
 # hello-word
-just another repository
+just another repository  >>
+this is my GitHub test text.
